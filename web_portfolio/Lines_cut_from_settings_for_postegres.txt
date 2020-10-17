@@ -1,0 +1,6 @@
+'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'webportfoliodb',
+        'USER': 'postgres',
+        'PASSWORD': 'diehard2world',
+        'HOST': 'localhost',
+        'PORT': '5432',
